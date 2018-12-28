@@ -1,4 +1,4 @@
-package com.jwl.logmanager.controller;
+package com.jwl.logmananger.core.controller;
 
 import com.jwl.log.facade.model.Log;
 import org.springframework.web.bind.annotation.PostMapping;
